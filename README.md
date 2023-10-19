@@ -15,3 +15,6 @@ More than four out of five CVD deaths are due to heart attacks and strokes, and 
 The most important behavioural risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol.
 Over three quarters of CVD deaths take place in low- and middle-income countries.                      
 Objective -The classification goal is to predict whether the patient has a 10-year risk of future coronary heart disease (CHD) based on their health statistics and information about their tobacco usage.
+
+### Business Objective:-
+The primary objective of this project is to leverage machine learning and predictive analytics to assess and classify patients' 10-year risk of developing coronary heart disease (CHD) based on their health metrics and tobacco usage information. This predictive model will aid healthcare professionals in proactively identifying individuals at a higher risk of CHD, allowing for early intervention, personalized medical advice, and lifestyle recommendations to reduce the prevalence of heart disease. By achieving this objective, we aim to improve the overall health and well-being of individuals, reduce healthcare costs, and contribute to better health outcomes in the population.
