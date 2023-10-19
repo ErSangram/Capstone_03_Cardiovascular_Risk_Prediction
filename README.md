@@ -7,6 +7,8 @@ CVDs are a group of disorders of the heart and blood vessels and include coronar
 The most important behavioural risk factors of heart disease and stroke are unhealthy diet, physical inactivity, tobacco use and harmful use of alcohol.
 The effects of behavioural risk factors may show up in individuals as raised blood pressure, raised blood glucose, raised blood lipids, and overweight and obesity.
 
+<img width="448" alt="Screenshot 2023-10-19 163122" src="https://github.com/ErSangram/Capstone_03_Cardiovascular_Risk_Prediction/assets/127137603/d77581cc-211b-4721-950d-2732e582b9ec">
+
 ### Problem Statement -
 Cardiovascular diseases (CVDs) are the leading cause of death globally, taking an estimated 17.9 million people died from CVDs in 2019, representing 32% of all global deaths. Of these deaths, 85% were due to heart attack and stroke.                  
 More than four out of five CVD deaths are due to heart attacks and strokes, and one third of these deaths occur prematurely in people under 70 years of age.
